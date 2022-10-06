@@ -1,5 +1,7 @@
 ### Projeto para criação de dashboards com os entes da federação a partir da API SICONFI
 
+Visualização no streamlit: http://172.20.228.59:8502 
+
 
 
 Status | Tarefa | Detalhes
